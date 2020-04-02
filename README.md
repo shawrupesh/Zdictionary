@@ -1,0 +1,2 @@
+# Zdictionary
+Command Line Tool
